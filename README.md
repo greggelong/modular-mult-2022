@@ -16,4 +16,14 @@ however, his approach to the problem was more complicated.
 
 For better or worse, I kept it as simple as possible.
 
+see an earlier discussion here
+
+https://greggelong.github.io/modular-mult/
+
+
+I have also made this into a object Class in p5js see here:
+
+
+https://editor.p5js.org/greggelong/full/Dz1N6pBMA
+
 
