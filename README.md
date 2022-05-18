@@ -14,6 +14,6 @@ https://youtu.be/bl3nc_a1nvs
 
 however, his approach to the problem was more complicated.
 
-I kept it as simple as possible.
+For better or worse, I kept it as simple as possible.
 
 
