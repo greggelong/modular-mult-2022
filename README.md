@@ -32,21 +32,21 @@ points on a circle, using polar to cartesian cooridinates
 
 ```processing
   void draw(){
-  translate(width/2,height/2);
- 
-  circle(0,0,r*2); // circle(x,y,diameter) 
-  for (int i =0; i<points; i++){
-    float x = cos(radians(theta))*r;
-    float y = sin(radians(theta))*r;
-    circle(x,y,20); // small circle
-    text(i,x,y);
-    println(x,y);
-    // increace 
-    theta += 360/points;
-   
-    
-  }
-  noLoop();
+    translate(width/2,height/2);
+
+    circle(0,0,r*2); // circle(x,y,diameter) 
+    for (int i =0; i<points; i++){
+      float x = cos(radians(theta))*r;
+      float y = sin(radians(theta))*r;
+      circle(x,y,20); // small circle
+      text(i,x,y);
+      println(x,y);
+      // increace 
+      theta += 360/points;
+
+
+    }
+    noLoop();
 }
 
 ````
