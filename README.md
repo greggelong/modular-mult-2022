@@ -7,6 +7,7 @@ Times Tables, Mandelbrot and the Heart of Mathematics
 
 https://youtu.be/qhbuKbxJsk8
 
+----
 
 Coding train did a coding challenge on the topic
 
@@ -20,11 +21,14 @@ see an earlier discussion here
 
 https://greggelong.github.io/modular-mult/
 
+----
 
 I have also made this into a object Class in p5js see here:
 
 
 https://editor.p5js.org/greggelong/full/Dz1N6pBMA
+
+---
 
 here I have also included a simple example of how to evenly space
 
