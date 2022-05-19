@@ -37,7 +37,7 @@ void draw(){
   y= sin(radians(theta))*r;
   x1= cos(radians(theta1))*r;
   y1= sin(radians(theta1))*r;
-  textSize(12);
+  textSize(22);
   text("multiple: "+str(floor(m)),20,20);
   text("lines: "+str(floor(lines)),20,40);
    
